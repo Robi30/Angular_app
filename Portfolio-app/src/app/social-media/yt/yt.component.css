@@ -1,0 +1,13 @@
+
+.yt {
+  float: left;
+  margin: 10px;
+  width: 147px;
+  height: 142px;
+  background-color: #d94348;
+  text-align: center;
+}
+
+.yt:hover {
+  background-color: #c83237;
+}

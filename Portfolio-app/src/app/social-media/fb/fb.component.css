@@ -1,0 +1,13 @@
+
+.fb {
+  float: left;
+  margin: 10px;
+  width: 147px;
+  height: 142px;
+  background-color: #4668b3;
+  text-align: center;
+}
+
+.fb:hover {
+  background-color: #3557a2;
+}

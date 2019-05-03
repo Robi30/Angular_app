@@ -1,0 +1,13 @@
+
+.tile3 {
+  float: left;
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #666666;
+  text-align: center;
+}
+
+.tile3:hover {
+  background-color: #555555;
+}

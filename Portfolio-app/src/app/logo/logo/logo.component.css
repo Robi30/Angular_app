@@ -1,0 +1,19 @@
+
+#logo {
+  float: left;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 70px;
+  text-align: center;
+  width: 600px;
+  padding-left: 0px;
+  margin: 20px auto 0px;
+
+}
+
+#tsClock {
+  float: left;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 70px;
+  text-align: center;
+  margin: 20px 0px 0px;
+}
